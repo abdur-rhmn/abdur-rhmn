@@ -36,10 +36,10 @@
 
 ### 📌 Featured Projects
 
-- **[Earthquake Detection & Real-Time Visualization System](https://github.com/abdur-rhmn/Real-Time-Earthquake-Motion-Detection-Monitoring-System.git)**
+- **[Earthquake Detection & Real-Time Visualization System](https://github.com/abdur-rhmn/Real-Time-Earthquake-Motion-Detection-Monitoring-System)**
   IoT-based vibration detection using Arduino, ADXL335, and Python (real-time Matplotlib visualization)
 
-- **[Python for Machine Learning — Practice Notebooks](https://github.com/abdur-rhmn/Python-For-Machine-Learning.git)**
+- **[Python for Machine Learning — Practice Notebooks](https://github.com/abdur-rhmn/Python-For-Machine-Learning)**
   Structured practice repository covering Python fundamentals through applied data analysis & visualization
 
 ---
@@ -69,6 +69,6 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdur-rhmn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ad.rahman142@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
