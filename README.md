@@ -46,9 +46,7 @@
 
 ### 📊 GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdur-rhmn&repo=Python-For-Machine-Learning)](...)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdur-rhmn&repo=Real-Time-Earthquake-Motion-Detection-Monitoring-System)](...)
+![](https://github-readme-activity-graph.vercel.app/graph?username=abdur-rhmn&theme=github-compact)
 
 ---
 
